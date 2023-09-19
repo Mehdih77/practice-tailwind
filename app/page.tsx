@@ -30,6 +30,9 @@ export default function Home({ className }: { className: string }) {
           quidem libero perspiciatis, ipsum ratione veritatis totam iusto
           similique deleniti odit alias sint!
         </div>
+        <div className="mx-auto text-primary text-sm">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hover Me :)
+        </div>
         <div className="flex h-10">
           <button className="w-1/2 bg-blue-600 font-bold text-white hover:bg-blue-800">
             Add
