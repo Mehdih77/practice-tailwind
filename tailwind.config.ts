@@ -29,6 +29,7 @@ const config: Config = {
           "900": "#00376E",
           "950": "#001F47",
         },
+        "custom-black": "#0202020",
       },
     },
   },
@@ -42,6 +43,11 @@ const config: Config = {
           "&:hover": {
             backgroundColor: "#cc1f1a",
           },
+        },
+        ".flex-center": {
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
         },
       });
     }),
