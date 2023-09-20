@@ -31,6 +31,9 @@ const config: Config = {
         },
         "custom-black": "#0202020",
       },
+      boxShadow: {
+        "3xl": "0px 9px 60px 0px rgba(0, 0, 0, 0.08)",
+      },
     },
   },
   plugins: [

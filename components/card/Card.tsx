@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Card() {
   return (
-    <div className="relative flex h-[390px] w-[1315px] rounded-xl border border-[#ffa500]">
+    <div className="relative flex h-[390px] w-full rounded-xl border border-[#ffa500]">
       <div className="relative flex-[30%] p-[14px]">
         <div className="flex-center absolute right-8 h-9 w-28 rounded-bl-xl rounded-br-xl bg-[#191D88] font-bold text-white">
           دوبله فارسی
